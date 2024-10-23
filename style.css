@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(219, 208, 141) ;
+    align-items: center;
+
+}
+
+button {
+    border-radius: 20px;
+    background-color: rgb(red, rgb(0, 255, 0), blue);
+    padding: 5px;
+}
+
+canvas {
+    border: 30px double rgb(95, 59, 38);
+
+}
